@@ -1,0 +1,58 @@
+[
+	{
+		"file": "D:\\Users\\yasin\\Documents\\Unreal Projects\\MissionPossible\\Source\\MissionPossible\\MissionPossible.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Users\\yasin\\Documents\\Unreal Projects\\MissionPossible\\.vscode\\compileCommands_Default\\MissionPossible.1.rsp"
+		],
+		"directory": "D:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Users\\yasin\\Documents\\Unreal Projects\\MissionPossible\\Source\\MissionPossible\\MissionPossible.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Users\\yasin\\Documents\\Unreal Projects\\MissionPossible\\.vscode\\compileCommands_Default\\MissionPossible.1.rsp"
+		],
+		"directory": "D:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Users\\yasin\\Documents\\Unreal Projects\\MissionPossible\\Source\\MissionPossible\\MissionPossible.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Users\\yasin\\Documents\\Unreal Projects\\MissionPossible\\.vscode\\compileCommands_Default\\MissionPossible.1.rsp"
+		],
+		"directory": "D:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Users\\yasin\\Documents\\Unreal Projects\\MissionPossible\\Source\\MissionPossible\\MissionPossibleCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Users\\yasin\\Documents\\Unreal Projects\\MissionPossible\\.vscode\\compileCommands_Default\\MissionPossible.1.rsp"
+		],
+		"directory": "D:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Users\\yasin\\Documents\\Unreal Projects\\MissionPossible\\Source\\MissionPossible\\MissionPossibleCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Users\\yasin\\Documents\\Unreal Projects\\MissionPossible\\.vscode\\compileCommands_Default\\MissionPossible.1.rsp"
+		],
+		"directory": "D:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Users\\yasin\\Documents\\Unreal Projects\\MissionPossible\\Source\\MissionPossible\\MissionPossibleGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Users\\yasin\\Documents\\Unreal Projects\\MissionPossible\\.vscode\\compileCommands_Default\\MissionPossible.1.rsp"
+		],
+		"directory": "D:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Users\\yasin\\Documents\\Unreal Projects\\MissionPossible\\Source\\MissionPossible\\MissionPossibleGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Users\\yasin\\Documents\\Unreal Projects\\MissionPossible\\.vscode\\compileCommands_Default\\MissionPossible.1.rsp"
+		],
+		"directory": "D:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	}
+]
