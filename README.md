@@ -1,4 +1,4 @@
-# Missin Possible
+# Mission Possible
 Shooter game made in Unreal Engine 5. Consists of stealth elements, AI behaivour, simple inventory UI.
 
 ## Aim and Gameplay
@@ -27,7 +27,8 @@ displayed in the UI, which is designed to work properly on standalone borderless
 mode so playing in editor would make it look a bit messy.
 
 ## Development Process
-After reviewing requirements, project is divided into modules which are the following:
+Project is divided into modules which are the following:
+
 * Animations
 * Weapon System
 * AI Behaviors
@@ -36,14 +37,15 @@ After reviewing requirements, project is divided into modules which are the foll
 
 These tasks are developed separately, keeping everything in mind for proper integration.
 Design patterns used and their reasoning are the following:
-● Observer, in order to manage interaction between related actors by asynchronous
+
+* Observer, in order to manage interaction between related actors by asynchronous
 events, such as cameras broadcasting players location to enemy characters.
-● Singleton, to manage game end and death conditions, made use of being able to
+* Singleton, to manage game end and death conditions, made use of being able to
 access gamemode and gamestate classes from anywhere.
-● Component, things like weapon, health and intractability which are used in multiple
+* Component, things like weapon, health and intractability which are used in multiple
 classes but serving same purpose with editable differences are implemented by
 using this approach.
-● Finite State Machine, used to manage transition between animations and in
+* Finite State Machine, used to manage transition between animations and in
 behavior tree states.
 
 Biggest challenge I faced is managing the behavior trees of AI actors. Camera was a bit
