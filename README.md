@@ -28,11 +28,11 @@ mode so playing in editor would make it look a bit messy.
 
 ## Development Process
 After reviewing requirements, project is divided into modules which are the following:
-● Animations
-● Weapon System
-● AI Behaviors
-● UI
-● Map design, sounds and polishing
+* Animations
+* Weapon System
+* AI Behaviors
+* UI
+* Map design, sounds and polishing
 
 These tasks are developed separately, keeping everything in mind for proper integration.
 Design patterns used and their reasoning are the following:
